@@ -1,0 +1,81 @@
+{
+  "common": {
+    "nextButton": "Siguiente",
+    "finishButton": "Finalizar"
+  },
+  "step1": {
+    "title": "CT - Actualizar Perfil",
+    "formTitle": "Tu Perfil",
+    "form": {
+      "profilePictureLabel": "Foto de Perfil",
+      "profilePictureButton": "Elegir una foto",
+      "firstNameLabel": "Tu nombre",
+      "firstNamePlaceholder": "Nombre",
+      "lastNameLabel": "Tu apellido",
+      "lastNamePlaceholder": "Apellido",
+      "submit": "Actualizar"
+    }
+  },
+  "step2": {
+    "title": "CT - Crear Organización",
+    "formTitle": "Tu empresa",
+    "form": {
+      "companyPictureLabel": "Logo de la Empresa",
+      "companyPictureButton": "Elegir una imagen",
+      "nameLabel": "Nombre",
+      "namePlaceholder": "Nombre de la Empresa",
+      "locationLabel": "Ubicación",
+      "locationPlaceholder": "Ubicación de la Empresa",
+      "codeLabel": "Código",
+      "codePlaceholder": "Código de la Empresa",
+      "industryLabel": "Industria",
+      "industryPlaceholder": "Seleccionar Industria"
+    }
+  },
+  "step3": {
+    "title": "CT - Categorías de Reporte",
+    "formTitle": "Elige tres categorías de reporte para comenzar"
+  },
+  "step4": {
+    "title": "CT - Crear Nuevo Usuario",
+    "formTitle": "Nuevo Usuario",
+    "form": {
+      "profilePictureLabel": "Foto de Perfil",
+      "profilePictureButton": "Elegir una foto",
+      "nameLabel": "Nombre",
+      "namePlaceholder": "Nombre",
+      "surnameLabel": "Apellido",
+      "surnamePlaceholder": "Apellido",
+      "emailLabel": "Correo Electrónico",
+      "emailPlaceholder": "Correo Electrónico",
+      "passwordLabel": "Contraseña",
+      "passwordPlaceholder": "Contraseña para el Usuario",
+      "groupLabel": "Grupo",
+      "groupPlaceholder": "Seleccionar Grupo"
+    }
+  },
+  "step5": {
+    "title": "CT - Crear Nueva Ubicación",
+    "formTitle": "Nueva Ubicación",
+    "form": {
+      "blueprintLabel": "Blueprint",
+      "blueprintPlaceholder": "Seleccionar una opción",
+      "divisionLabel": "División",
+      "divisionPlaceholder": "Seleccionar una opción",
+      "nameLabel": "Nombre",
+      "namePlaceholder": "Nombre",
+      "latitudeLabel": "Latitud",
+      "latitudePlaceholder": "Latitud",
+      "longitudeLabel": "Longitud",
+      "longitudePlaceholder": "Longitud",
+      "addressLabel": "Dirección",
+      "addressPlaceholder": "Dirección de la Ubicación",
+      "descriptionLabel": "Descripción",
+      "descriptionPlaceholder": "Descripción de la Ubicación",
+      "codeLabel": "Código",
+      "codePlaceholder": "Código",
+      "picturesLabel": "Fotos",
+      "picturesButton": "Tomar una foto o elegir una"
+    }
+  }
+}

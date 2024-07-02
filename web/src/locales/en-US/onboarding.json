@@ -1,0 +1,81 @@
+{
+  "common": {
+    "nextButton": "Next",
+    "finishButton": "Finish"
+  },
+  "step1": {
+    "title": "CT - Update Profile",
+    "formTitle": "Your Profile",
+    "form": {
+      "profilePictureLabel": "Profile Picture",
+      "profilePictureButton": "Choose a picture",
+      "firstNameLabel": "Your first name",
+      "firstNamePlaceholder": "First name",
+      "lastNameLabel": "Your last name",
+      "lastNamePlaceholder": "Last name",
+      "submit": "Update"
+    }
+  },
+  "step2": {
+    "title": "CT - Create Organization",
+    "formTitle": "Your company",
+    "form": {
+      "companyPictureLabel": "Company Logo",
+      "companyPictureButton": "Choose a picture",
+      "nameLabel": "Name",
+      "namePlaceholder": "Company Name",
+      "locationLabel": "Location",
+      "locationPlaceholder": "Company Location",
+      "codeLabel": "Code",
+      "codePlaceholder": "Company Custom Code",
+      "industryLabel": "Industry",
+      "industryPlaceholder": "Select Industry"
+    }
+  },
+  "step3": {
+    "title": "CT - Report Categories",
+    "formTitle": "Choose three report categories to start"
+  },
+  "step4": {
+    "title": "CT - Create New User",
+    "formTitle": "New User",
+    "form": {
+      "profilePictureLabel": "Profile Picture",
+      "profilePictureButton": "Choose a picture",
+      "nameLabel": "Name",
+      "namePlaceholder": "Name",
+      "surnameLabel": "Surname",
+      "surnamePlaceholder": "Surname",
+      "emailLabel": "Email",
+      "emailPlaceholder": "Email",
+      "passwordLabel": "Password",
+      "passwordPlaceholder": "User Password",
+      "groupLabel": "Group",
+      "groupPlaceholder": "Select Group"
+    }
+  },
+  "step5": {
+    "title": "CT - Create New Location",
+    "formTitle": "New location",
+    "form": {
+      "blueprintLabel": "Blueprint",
+      "blueprintPlaceholder": "Select an option",
+      "divisionLabel": "Division",
+      "divisionPlaceholder": "Select an option",
+      "nameLabel": "Name",
+      "namePlaceholder": "Enter a location name",
+      "latitudeLabel": "Latitude",
+      "latitudePlaceholder": "Latitude",
+      "longitudeLabel": "Longitude",
+      "longitudePlaceholder": "Longitude",
+      "addressLabel": "Address",
+      "addressPlaceholder": "Enter a location address",
+      "descriptionLabel": "Description",
+      "descriptionPlaceholder": "Enter a description",
+      "codeLabel": "Code",
+      "codePlaceholder": "Code",
+      "picturesLabel": "Pictures",
+      "picturesButton": "Take a picture o choose one"
+    }
+  }
+}

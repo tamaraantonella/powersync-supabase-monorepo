@@ -1,0 +1,29 @@
+{
+  "compilerOptions": {
+    "baseUrl": "./",
+    "paths": {
+      "@shared/*": ["shared/*"],
+      "@web/*": ["web/src/*"]
+    },
+    "target": "ESNext",
+    "lib": ["dom", "dom.iterable", "esnext"],
+    "allowJs": true,
+    "skipLibCheck": true,
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "strict": true,
+    "forceConsistentCasingInFileNames": true,
+    "module": "ESNext",
+    "moduleResolution": "Bundler",
+    "composite": true,
+    "resolveJsonModule": true,
+    "isolatedModules": true,
+    "noEmit": true,
+    "jsx": "react-jsx",
+    "types": ["vite/client"],
+    "noFallthroughCasesInSwitch": true,
+    "useDefineForClassFields": true
+  },
+  "files": ["svg.d.ts"],
+  "include": ["shared", "web", "svg.d.ts", "vite.config.ts"]
+}

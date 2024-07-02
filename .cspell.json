@@ -1,0 +1,22 @@
+{
+  "version": "0.1",
+  "language": "en,es",
+  "words": [
+
+  ],
+  "flagWords": [],
+  "ignorePaths": [
+    "package.json",
+    "package-lock.json",
+    "tsconfig.json",
+    "node_modules/**",
+    "web/node_modules/**",
+    "tsconfig.json",
+    "tsconfig.node.json",
+    "mobile/package-lock.json",
+    "web/tsconfig.node.json",
+    "web/package.json",
+    "web/package-lock.json"
+  ],
+  "import": ["@cspell/dict-es-es/cspell-ext.json"]
+}

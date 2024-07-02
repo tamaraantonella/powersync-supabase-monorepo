@@ -1,0 +1,14 @@
+#root
+.env
+node_modules
+
+#mobile
+mobile/node_modules
+mobile/dist/assets
+
+#shared
+shared/node_modules
+
+#web
+web/.env
+web/.next

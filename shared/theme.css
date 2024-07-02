@@ -1,0 +1,119 @@
+:root {
+  --chui-border-radius: 8px;
+
+  --chui-color-primary-main: #08a29b;
+  --chui-color-primary-contrast: #ffffff;
+  --chui-color-primary-shade: #078f88;
+  --chui-color-primary-tint: #3aaea9;
+  --chui-color-primary-shadow-1: #e7f6f5;
+  --chui-color-primary-shadow-2: #daf1f0;
+  --chui-color-primary-bg: #cfe6e5;
+
+  --chui-color-secondary-main: #082332;
+  --chui-color-secondary-contrast: #ffffff;
+  --chui-color-secondary-shade: #071f2c;
+  --chui-color-secondary-tint: #213947;
+
+  --chui-color-tertiary-main: #7e57c2;
+  --chui-color-tertiary-contrast: #ffffff;
+  --chui-color-tertiary-shade: #6f4dab;
+  --chui-color-tertiary-tint: #8b68c8;
+
+  --chui-color-focus-main: #0f62fe;
+  --chui-color-focus-shade: #b7d0ff;
+  --chui-color-focus-bg: #f5f8ff;
+
+  --chui-color-success-main: #08a29b;
+  --chui-color-success-contrast: #ffffff;
+  --chui-color-success-shade: #078f88;
+  --chui-color-success-tint: #3aaea9;
+  --chui-color-success-bg: #edfffe;
+
+  --chui-color-warning-main: #f19b0e;
+  --chui-color-warning-contrast: #ffffff;
+  --chui-color-warning-shade: #d4880c;
+  --chui-color-warning-tint: #f2a526;
+  --chui-color-warning-bg: #fdf3ec;
+
+  --chui-color-error-main: #df2f13;
+  --chui-color-error-contrast: #ffffff;
+  --chui-color-error-shade: #c42911;
+  --chui-color-error-tint: #ef5350;
+  --chui-color-error-bg: #ffecec;
+
+  --chui-color-medium-main: #9ca7ad;
+  --chui-color-medium-contrast: #000000;
+  --chui-color-medium-shade: #899398;
+  --chui-color-medium-tint: #a6b0b5;
+
+  --chui-color-light-main: #e6e6e6;
+  --chui-color-light-contrast: #000000;
+  --chui-color-light-shade: #cacaca;
+  --chui-color-light-tint: #e9e9e9;
+
+  --chui-color-dark-main: #082332;
+  --chui-color-dark-contrast: #ffffff;
+  --chui-color-dark-shade: #5a5a5a;
+  --chui-color-dark-tint: #757575;
+  --chui-color-dark-neutral: #666666;
+
+  --chui-color-info-main: #42a5f5;
+  --chui-color-info-contrast: #ffffff;
+  --chui-color-info-shade: #0077c2;
+  --chui-color-info-tint: #80d6ff;
+
+  --chui-color-general-background-main: #ffffff;
+  --chui-color-general-background-contrast: #000000;
+  --chui-color-general-background-shade: #edeef2;
+  --chui-color-general-background-tint: #ffffff;
+
+  --chui-font-family-heading: Montserrat, Helvetica Neue, Helvetica, Arial,
+    sans-serif;
+  --chui-font-family-body: Open Sans, Verdana, Helvetica Neue, Helvetica, Arial,
+    sans-serif;
+  --chui-font-family-control: Roboto, Helvetica Neue, Helvetica, Arial,
+    sans-serif;
+
+  --chui-font-size-7xl: 2.566rem; /* 41.05px */
+  --chui-font-size-6xl: 2.281rem; /* 36.49px */
+  --chui-font-size-5xl: 2.027rem; /* 32.44px */
+  --chui-font-size-4xl: 1.802rem; /* 28.83px */
+  --chui-font-size-3xl: 1.602rem; /* 25.63px */
+  --chui-font-size-2xl: 1.424rem; /* 22.78px */
+  --chui-font-size-xl: 1.266rem; /* 20.25px */
+  --chui-font-size-lg: 1.125rem; /* 18px */
+  --chui-font-size-base: 1rem; /* 16px */
+  --chui-font-size-sm: 0.889rem; /* 14.22px */
+  --chui-font-size-xs: 0.79rem; /* 12.64px */
+  --chui-font-size-2xs: 0.702rem; /* 11.24px */
+
+  --chui-line-height-f-auto: 1.22;
+
+  --chui-box-shadow-0: none;
+  --chui-box-shadow-1: 0px 1px 3px rgba(8, 35, 50, 0.12),
+    0px 1px 1px rgba(8, 35, 50, 0.14), 0px 2px 1px -1px rgba(8, 35, 50, 0.2);
+  --chui-box-shadow-2: 0px 1px 5px rgba(8, 35, 50, 0.12),
+    0px 2px 2px rgba(8, 35, 50, 0.14), 0px 3px 1px -2px rgba(8, 35, 50, 0.2);
+  --chui-box-shadow-3: 0px 1px 8px rgba(8, 35, 50, 0.12),
+    0px 3px 4px rgba(8, 35, 50, 0.14), 0px 3px 3px -2px rgba(8, 35, 50, 0.2);
+  --chui-box-shadow-4: 0px 1px 10px rgba(8, 35, 50, 0.12),
+    0px 4px 5px rgba(8, 35, 50, 0.14), 0px 2px 4px -1px rgba(8, 35, 50, 0.2);
+  --chui-box-shadow-5: 0px 1px 18px rgba(8, 35, 50, 0.12),
+    0px 6px 10px rgba(8, 35, 50, 0.14), 0px 3px 5px -1px rgba(8, 35, 50, 0.2);
+  --chui-box-shadow-6: 0px 3px 14px 2px rgba(8, 35, 50, 0.12),
+    0px 8px 10px 1px rgba(8, 35, 50, 0.14),
+    0px 5px 5px -3px rgba(8, 35, 50, 0.2);
+  --chui-box-shadow-7: 0px 5px 22px 4px rgba(8, 35, 50, 0.12),
+    0px 12px 17px 2px rgba(8, 35, 50, 0.14),
+    0px 7px 8px -4px rgba(8, 35, 50, 0.2);
+  --chui-box-shadow-8: 0px 6px 30px 5px rgba(8, 35, 50, 0.12),
+    0px 16px 24px 2px rgba(8, 35, 50, 0.14),
+    0px 8px 10px -5px rgba(8, 35, 50, 0.2);
+  --chui-box-shadow-9: 0px 9px 46px 8px rgba(8, 35, 50, 0.12),
+    0px 24px 38px 3px rgba(8, 35, 50, 0.14),
+    0px 11px 15px -7px rgba(8, 35, 50, 0.2);
+}
+
+.force-recalculation {
+  display: none;
+}

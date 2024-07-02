@@ -1,0 +1,33 @@
+{
+  "menus": {
+    "about": "Acerca de",
+    "nestMenus": "Menús Anidados",
+    "menu1": "Menú 1",
+    "menu1-1": "Menú 1-1",
+    "menu1-2": "Menú 1-2",
+    "menu2": "Menú 2",
+    "iframe": "Página Externa",
+    "docs": "Documentos",
+    "home": "Inicio",
+    "guide": "Guía",
+    "introduction": "Introducción",
+    "i18n": "I18n"
+  },
+  "common": {
+    "username": "Nombre de Usuario",
+    "email": "Correo Electrónico",
+    "password": "Contraseña",
+    "login": "Iniciar Sesión",
+    "logout": "Cerrar Sesión",
+    "backHome": "Volver al Inicio",
+    "back": "Volver",
+    "warning": "Advertencia",
+    "delete": "Eliminar",
+    "upload": "Subir",
+    "404SubTitle": "Lo siento, la página que visitaste no existe."
+  },
+  "projectSettings": {
+    "title": "Configuraciones del Proyecto",
+    "theme": "Tema"
+  }
+}

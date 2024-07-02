@@ -1,0 +1,9 @@
+{
+  "aboutProject": "Acerca del Proyecto",
+  "descriptions": "react-ant-admin es una solución de nivel medio a backend basada en React 18, Vite 5 y TypeScript. Está diseñado para ayudarte a construir rápidamente proyectos backend a nivel empresarial. Puede ayudarte a adoptar nuevas tecnologías y otros aspectos.",
+  "projectMessage": "Mensaje del Proyecto",
+  "version": "Versión",
+  "lastBuildTime": "Última Hora de Construcción",
+  "dependencies": "Dependencias de Producción",
+  "devDependencies": "Dependencias de Desarrollo"
+}
